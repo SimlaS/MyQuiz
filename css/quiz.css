@@ -14,6 +14,9 @@ body { background-color: #fff; padding: 20px; }
 #myQuiz h2 { font-size: 3em; margin: 0px; font-weight: 100;}
 #myQuiz h3 { font-size: 2.4em; margin: 0px; font-weight: 100;}
 #myQuiz p { margin: 0px 0px 14px 0px;}
+#myQuiz .btn {
+    display: inline-block; cursor: pointer; background-color: #c04b01;
+}
 
 /* Intro */
 #myQuiz .intro { position: absolute; top: 225px; left: 40px; width: 550px;}
